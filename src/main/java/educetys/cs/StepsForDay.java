@@ -14,7 +14,7 @@ public class StepsForDay {
     }
 
     void addSteps(int steps) {
-        this.steps = steps;
+        this.steps += steps;
     }
 
     void clearSteps(){
