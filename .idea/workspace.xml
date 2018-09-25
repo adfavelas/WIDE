@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887a67fb-9bff-41ae-8ef0-2a8b808e80ba" name="Default Changelist" comment="ERROR 2 prueba">
+    <list default="true" id="887a67fb-9bff-41ae-8ef0-2a8b808e80ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/educetys/cs/StepsForDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/educetys/cs/StepsForDay.java" afterDir="false" />
     </list>
@@ -38,16 +38,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="185" />
-          <entry key="txt" value="215" />
+          <entry key="java" value="190" />
+          <entry key="txt" value="239" />
           <entry key="xml" value="25" />
           <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="185" />
-          <entry key="PLAIN_TEXT" value="215" />
+          <entry key="JAVA" value="190" />
+          <entry key="PLAIN_TEXT" value="239" />
           <entry key="XML" value="25" />
           <entry key="YAML" value="3" />
         </counts>
@@ -68,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/educetys/cs/StepsForDay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="247">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding>
                 <element signature="e#195#196#0" expanded="true" />
                 <element signature="e#229#230#0" expanded="true" />
@@ -236,7 +236,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537919401135" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537919556448" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -382,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537836123530</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Bug fixed: AddSteps 2">
+      <created>1537919425123</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537919425123</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -440,7 +447,8 @@
     <MESSAGE value="Error para revisar CI" />
     <MESSAGE value="Bug Fix AddSteps" />
     <MESSAGE value="ERROR 2 prueba" />
-    <option name="LAST_COMMIT_MESSAGE" value="ERROR 2 prueba" />
+    <MESSAGE value="Bug fixed: AddSteps 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fixed: AddSteps 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/educetys/cs/MainTest.java">
@@ -484,8 +492,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/educetys/cs/StepsForDay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="247">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="e#195#196#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />

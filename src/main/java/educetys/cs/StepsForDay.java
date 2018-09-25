@@ -10,7 +10,7 @@ public class StepsForDay {
     }
 
     void inputSteps(int steps) {
-        this.steps = steps;
+        this.steps = steps+10;
     }
 
     void addSteps(int steps) {
@@ -21,7 +21,7 @@ public class StepsForDay {
         this.steps = 0;
     }
 
-    int get() { return steps; }
+    int get() { return step; }
 
     boolean metGoal(){
         return steps >= goal;
