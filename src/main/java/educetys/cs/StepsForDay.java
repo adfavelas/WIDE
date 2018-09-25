@@ -21,7 +21,7 @@ public class StepsForDay {
         this.steps = 0;
     }
 
-    int get() { return step; }
+    int get() { return steps; }
 
     boolean metGoal(){
         return steps >= goal;
